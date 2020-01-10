@@ -8,7 +8,7 @@ Paperboy is a free self hosted solution for your management request API. At the 
 **⚠️ Don't use for production. I share these releases for my entourage. There are a lot of bugs and some features are not correctly implemented.
 These releases use a public shared real time database so be careful when you use it. Again, it's a demo.**
 
-I will add settings feature so that you can fill your Firebase informations.
+**Download: [Click here](https://github.com/stevenpersia/paperboy-alpha-releases/releases/)**
 
 Paperboy in few words :
 
@@ -23,10 +23,6 @@ Paperboy in few words :
 -   Cool keyboard shortcuts
 -   Yeah, it's free :)
 
-## Specs
-
--   React
--   Firebase
 
 ## What is it ?
 Paperboy is a light version of Postman. All core functions are implemented. Some more will come in future but I would like to keep it simple as possible ! Works on mac, only.
@@ -36,6 +32,12 @@ Already included :
 - Auth: Bearer token.
 - Params : Query and params.
 - Others things : Status code and time of requests.
+- I will add settings feature so that you can fill your Firebase informations.
+
+## Specs
+
+-   React
+-   Firebase
 
 ## Roadmap
 -   Add more methods ("PATCH", "LINK", ...).
