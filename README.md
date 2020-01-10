@@ -1,6 +1,6 @@
 
 # PAPERBOY
-<img src="https://raw.githubusercontent.com/stevenpersia/paperboy-alpha-releases/master/paperboy.png?token=AF3HRNJB5ZHYX45QYZMTZPC6DCTBY" />
+<img src="https://raw.githubusercontent.com/stevenpersia/paperboy-alpha-releases/0.0.1/paperboy.png" alt="Paperboy" />
 
 ## Description
 Paperboy is a free self hosted solution for your management request API. At the moment, in alpha version, core features can be refactored.
